@@ -1,8 +1,8 @@
-# jddos
-Experimental Java based dDos tool
+# Hammer
+Java based dDos tool
 ---
 
-jDdos is dDos script that targets HTTP based applications. This script is written in Java and it's only experimental so **I do not take responsiblities for any usages**, you might use it at your own risks.
+Hammer is dDos script that targets HTTP based applications. This script is written in Java and it's only experimental so **I do not take responsiblities for any usages**, you might use it at your own risks.
 
 
 ## Main features
